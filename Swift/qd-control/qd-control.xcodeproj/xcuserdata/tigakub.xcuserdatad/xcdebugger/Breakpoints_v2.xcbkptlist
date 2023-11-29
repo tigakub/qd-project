@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D2A7A52-E59E-4748-BA60-2DC24CFCEA5D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9310C83-F82E-4D8A-B32E-202CECCF956D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qd-control/Legendre.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "integrate(from:to:order:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53AB1AD8-9A21-491D-8846-A7E8AA8BB6A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qd-control/BSpline.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "evaluate(o:u:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53AB1AD8-9A21-491D-8846-A7E8AA8BB6A8 - d3c7f51ffbbf8043"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "qd_control.BSpline.evaluate(o: Swift.Int, u: &#x3c4;_0_0.Scalar) -&gt; &#x3c4;_0_0"
+                  moduleName = "qd-control"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tigakub/Documents/Robotics/qd/qd-umbrella/Swift/qd-control/qd-control/BSpline.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "53AB1AD8-9A21-491D-8846-A7E8AA8BB6A8 - 5e615dbe8526f4ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in qd_control.BSpline.evaluate(o: Swift.Int, u: &#x3c4;_0_0.Scalar) -&gt; &#x3c4;_0_0"
+                  moduleName = "qd-control"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tigakub/Documents/Robotics/qd/qd-umbrella/Swift/qd-control/qd-control/BSpline.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "53AB1AD8-9A21-491D-8846-A7E8AA8BB6A8 - 81ae40ad465a705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in closure #1 @Sendable () -&gt; () in qd_control.BSpline.evaluate(o: Swift.Int, u: &#x3c4;_0_0.Scalar) -&gt; &#x3c4;_0_0"
+                  moduleName = "qd-control"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tigakub/Documents/Robotics/qd/qd-umbrella/Swift/qd-control/qd-control/BSpline.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
